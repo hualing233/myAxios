@@ -1,0 +1,20 @@
+{
+  "name": "myaxios",
+  "version": "1.0.0",
+  "description": "myAxios demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-hualing:hualing233/myAxios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0"
+  }
+}
